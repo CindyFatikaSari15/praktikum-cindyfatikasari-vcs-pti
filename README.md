@@ -1,5 +1,4 @@
 # praktikum-cindyfatikasari-vcs-pti
-Latihan Version Control System mahasiswa PTI
 Repository ini dibuat untuk memenuhi kegiatan Praktikum Administrasi Digital pada materi Version Control System (VCS).
 
 ## Deskripsi
